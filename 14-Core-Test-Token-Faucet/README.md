@@ -16,12 +16,11 @@ This is a simple ERC-20 token faucet built to distribute testnet versions of tok
 
 ## 💡 About the Project
 
-
 Tokens available for request:
 
-* ✅ Lending DAI
-* ✅ Lending USDT
-* ✅ Lending USDC
+- ✅ Lending DAI
+- ✅ Lending USDT
+- ✅ Lending USDC
 
 ---
 
@@ -44,11 +43,11 @@ Each wallet can request tokens based on optional rate limits (e.g., per hour/day
 
 ## 🛠 Tech Stack
 
-* **Solidity** (`^0.8.x`)
-* **OpenZeppelin** ERC20 contracts
-* **Hardhat** for smart contract development
-* **Nextjs + Ethers.js** frontend *(optional)*
-* **Core Blockchain Testnet**
+- **Solidity** (`^0.8.x`)
+- **OpenZeppelin** ERC20 contracts
+- **Hardhat** for smart contract development
+- **Nextjs + Ethers.js** frontend _(optional)_
+- **Core Blockchain Testnet**
 
 ---
 
@@ -57,8 +56,8 @@ Each wallet can request tokens based on optional rate limits (e.g., per hour/day
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/coredao-org/dapp-tutorial
-cd token-faucet
+git clone https://github.com/coredao-org/dapp-tutorial.git
+cd dapp-tutorial/14-Core-Test-Token-Faucet
 ```
 
 ### 2. Install dependencies
@@ -78,7 +77,6 @@ npx hardhat compile
 ```bash
 npx hardhat run scripts/deploy.js --network core
 ```
-
 
 ### 5. Launch the Frontend
 
