@@ -8,11 +8,11 @@ A powerful, gas-efficient, and modular decentralized finance (DeFi) protocol ena
 
 ## ✨ Features
 
-* 🏦 **Lend & Borrow**: Supply collateral and borrow from a selection of supported tokens.
-* 🔄 **Repay System**: Easily repay borrowed tokens with calculated interest.
-* 🔍 **Loan Viewer**: See real-time loan data per token pair.
-* 🧠 **ERC-20 Support**: Currently supports USDT, USDC, and DAI.
-* ⚙️ **Smart Contract Factory Pattern**: Optimized to manage lending pools and loan data per user.
+- 🏦 **Lend & Borrow**: Supply collateral and borrow from a selection of supported tokens.
+- 🔄 **Repay System**: Easily repay borrowed tokens with calculated interest.
+- 🔍 **Loan Viewer**: See real-time loan data per token pair.
+- 🧠 **ERC-20 Support**: Currently supports USDT, USDC, and DAI.
+- ⚙️ **Smart Contract Factory Pattern**: Optimized to manage lending pools and loan data per user.
 
 ---
 
@@ -22,7 +22,7 @@ A powerful, gas-efficient, and modular decentralized finance (DeFi) protocol ena
 
 ```bash
 git clone https://github.com/coredao-org/dapp-tutorial.git
-cd CoreLend
+cd dapp-tutorial/15-CoreLend
 ```
 
 ---
@@ -107,12 +107,12 @@ npm run dev
 
 ## 🧠 Tech Stack
 
-* **Solidity** – Smart contract language
-* **Hardhat** – Smart contract dev environment
-* **Next.js** – React-based frontend framework
-* **Tailwind CSS** – Styling
-* **Ethers.js** – Web3 provider
-* **Core Blockchain** – Testnet deployment
+- **Solidity** – Smart contract language
+- **Hardhat** – Smart contract dev environment
+- **Next.js** – React-based frontend framework
+- **Tailwind CSS** – Styling
+- **Ethers.js** – Web3 provider
+- **Core Blockchain** – Testnet deployment
 
 ---
 
@@ -120,8 +120,8 @@ npm run dev
 
 Got an idea to improve the protocol? Feel free to:
 
-* Fork the repo
-* Submit issues
-* Propose pull requests
+- Fork the repo
+- Submit issues
+- Propose pull requests
 
 We welcome community contributions!
