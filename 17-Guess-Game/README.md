@@ -38,8 +38,8 @@ The repository is organized as follows:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/adamsdavee/Guess-Game.git
-   cd Guess-Game
+   git clone https://github.com/coredao-org/dapp-tutorial.git
+   cd dapp-tutorial/17-Guess-Game
    ```
 
 2. **Install Dependencies**
@@ -124,10 +124,4 @@ The frontend is built with React and is located in the `frontend` directory. It 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Enjoy playing the "Guess the Number" game on the Core blockchain! If you encounter any issues or have suggestions, feel free to open an issue in the repository. 
+Enjoy playing the "Guess the Number" game on the Core blockchain! If you encounter any issues or have suggestions, feel free to open an issue in the repository.
